@@ -24,6 +24,8 @@ https://ujpylp0omvn3.jp.larksuite.com/share/base/form/shrjpG2jWz9FTMQjcaKBe1y1Sg
 
 ## 機能
 - マップ選択：
+  
+- 商談結果：現在追いかけている、契約企業のみ表示するため、「失注」は非表示
 
 - 更新：1時間に1回数字を更新するトリガー設定、Webアプリの右上にある「更新」ボタンをクリックするとリアルタイムで反映
 
