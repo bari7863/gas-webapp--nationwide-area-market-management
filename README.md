@@ -1,7 +1,7 @@
 # gas-webapp-sales-management-graph & ranking
 - GASで作成したWebアプリ（全国市場エリア管理）
 
-# GAS Webアプリ：全国市場エリア管理
+# Webアプリ（GAS）：全国市場エリア管理
 
 ## URL
 ### Webアプリ
